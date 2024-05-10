@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ngawang"
 title_separator          : "-"
-name                     : &name "Ngawang"
+name                     : &name "About me"
 description              : &description "personal description"
 url                      : https://ngawangdendup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
