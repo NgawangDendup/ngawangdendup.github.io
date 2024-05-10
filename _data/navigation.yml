@@ -11,8 +11,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  #- title: "Portfolio"
-   # url: /portfolio/
+  - title: "Résumé (PDF)"
+    url: https://www.dropbox.com/scl/fi/hgsilp6uid2vp37x70vbj/cv.pdf?rlkey=h7g7y8h3ypjsbvaqwhqxergtc&st=adkz4bd6&dl=0
    
   #- title: "CV"
   #  url: /cv/
