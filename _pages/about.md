@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "Ngawang Dendup"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 Thank you for visiting my page.
 
 My name is Ngawang Dendup, and I work as a Consultant/Economist at the Asian Development Bank Institute ([ADBI](https://www.adb.org/adbi/main)). Before joining ADBI, I was an Assistant Professor (without tenure) at the Faculty of Political Science and Economics, Waseda University.
