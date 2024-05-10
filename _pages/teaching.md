@@ -6,13 +6,24 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
-Academic Year 2022 -
+
+Academic Year 2024
 =====
-- Statistics II
+- Statistics I and II (using R and RStudio)
+
+Academic Year 2023 
+=====
+- Applied Microeconometrics (graduate level)
+- Statistics I and II (using R and RStudio)
+- Undergraduate Basic Seminar
+
+Academic Year 2022 
+=====
+- Applied Microeconometrics (graduate level)
+- Statistics II (using R and RStudio)
 - Advanced Econometrics
 - Basic Seminar
 - Statistics for Causal Inference (Intermediate Seminar)
-- Applied Microeconometrics
 
 Academic Year 2019 - 2021
 ========
@@ -31,12 +42,7 @@ Teaching Philosophy
 
 Teaching Experiences (others)
 ===================
-- RA Microeconomics I (PG level) and Econometrics I (PG level) at Waseda University
 - Royal University of Bhutan: Microeconomics, Macroeconomics, Statistics, Development Economics
-
-Others
-======
-If you are interested in the courses that I offer at Waseda, but you are not a regular student of Waseda University, please write to me. I will be more than happy to guide you or share my teaching materials. 
 
 <nbsp>
 
