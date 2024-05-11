@@ -12,7 +12,7 @@ main:
     url: /teaching/    
     
   - title: "Résumé (PDF)"
-    url: /cv/cv.pdf
+    url: /cv/
    
   #- title: "CV"
   #  url: /cv/
