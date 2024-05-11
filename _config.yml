@@ -191,9 +191,9 @@ collections:
   others:
     output: true
     permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
+ # cv:
+  #  output: true
+   # permalink: /:collection/:path/
 
 
 # Defaults
@@ -260,14 +260,7 @@ defaults:
       layout: others
       author_profile: true
       share: true
-  # _cv
-  - scope:
-      path: ""
-      type: cv
-    values:
-      layout: others
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
