@@ -15,7 +15,7 @@ main:
     url: /cv/
    
   #- title: "CV"
-  #  url: /cv/
+  #  url: /_cv/cv.pdf/
         
   - title: "Others"
     url: /others/
