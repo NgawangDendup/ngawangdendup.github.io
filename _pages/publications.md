@@ -6,14 +6,17 @@ author_profile: true
 header:
   og_image: "research/ecdf.png"
 ---
+Working Papers/Work-in-Progress
+==========================
+
 
 Articles
 ==========
-4. Returns to grid electricity on firewood and kerosene: Mechanism. **"Journal of Environmental Economics and Management"**, 2022, 111. [Link](https://doi.org/10.1016/j.jeem.2021.102606)
+1. Returns to grid electricity on firewood and kerosene: Mechanism. **"Journal of Environmental Economics and Management"**, 2022, 111. [Link](https://doi.org/10.1016/j.jeem.2021.102606)
 
-3. Information leverage: The adoption of clean cooking fuel in Bhutan. **"Energy Policy"**, (2019), 125, 181-195. (with [Toshihide Arimura](http://www.f.waseda.jp/arimura/en/publications.html)). [Link](https://doi.org/10.1016/j.enpol.2018.10.054)
+1. Information leverage: The adoption of clean cooking fuel in Bhutan. **"Energy Policy"**, (2019), 125, 181-195. (with [Toshihide Arimura](http://www.f.waseda.jp/arimura/en/publications.html)). [Link](https://doi.org/10.1016/j.enpol.2018.10.054)
 
-2. Demand for piped drinking water and a formal sewer system in Bhutan. **"Environmental Economics and Policy Studies"**, (2018), 20(3), 681-703. (with [Kuenzang Tshering](https://www.ecu.edu.au/schools/science/research-students/profiles/postgraduate-research-students/mr-kuenzang-tshering?fbclid=IwAR3d391BKKh0LOujo23xds6pthqdrrQjQxaWhzRhkBaT-11Ml77UDUMpDwo)). [Link](https://doi.org/10.1007/s10018-018-0211-3)
+1. Demand for piped drinking water and a formal sewer system in Bhutan. **"Environmental Economics and Policy Studies"**, (2018), 20(3), 681-703. (with [Kuenzang Tshering](https://www.ecu.edu.au/schools/science/research-students/profiles/postgraduate-research-students/mr-kuenzang-tshering?fbclid=IwAR3d391BKKh0LOujo23xds6pthqdrrQjQxaWhzRhkBaT-11Ml77UDUMpDwo)). [Link](https://doi.org/10.1007/s10018-018-0211-3)
 
 1. Climatic changes and their impact on socio-economic sectors in the Bhutan Himalayas: an implementation strategy. **"Regional Environmental Change"**,(2016), 16(5),1401-1415. (with Hoy, Andreas, [Om Katel](https://scholar.google.com/citations?hl=en&user=7VKGhoAAAAAJ&view_op=list_works&alert_preview_top_rm=2&sortby=pubdate), [Pankaj Thapa](https://orcid.org/0000-0002-3890-6698), and Jörg Matschullat). [Link](https://link.springer.com/article/10.1007%2Fs10113-015-0868-0)
 
