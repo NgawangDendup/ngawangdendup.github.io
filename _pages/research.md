@@ -20,6 +20,8 @@ Work-in-Progress
 
 Articles
 ==========
+1. In pursuit of sustainable development goal 7- Evidence of clean cooking fuel usage from 46 developing countries. **"Electricity Journal"**, 2024. (with Raman Mishra, Dil Bahadur Rahut, Subhasis Bera, Tetsushi Sonobe) [Link](https://www.sciencedirect.com/science/article/pii/S1040619024000435?via%3Dihub)
+
 1. Returns to grid electricity on firewood and kerosene: Mechanism. **"Journal of Environmental Economics and Management"**, 2022, 111. [Link](https://doi.org/10.1016/j.jeem.2021.102606)
 
 1. Information leverage: The adoption of clean cooking fuel in Bhutan. **"Energy Policy"**, (2019), 125, 181-195. (with [Toshihide Arimura](http://www.f.waseda.jp/arimura/en/publications.html)). [Link](https://doi.org/10.1016/j.enpol.2018.10.054)
