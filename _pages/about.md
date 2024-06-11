@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Thank you for visiting my page.
-
 My name is Ngawang Dendup, and I work as a Consultant/Economist at the [Asian Development Bank Institute](https://www.adb.org/adbi/main) (ADBI). Before joining ADBI, I was an Assistant Professor at the Faculty of Political Science and Economics, Waseda University.
 
 I conduct research in the field of applied microeconomics, focusing on energy, environment, and development economics. In my recent research, I employ a combination of applied microeconometrics and model-based approaches.
