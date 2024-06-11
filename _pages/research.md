@@ -7,19 +7,19 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-Work-in-Progress
+Working Papers/Work-in-Progress
 ================
 1.  Designing Nonlinear Electricity Pricing with Misperceptions: Evidence from Free Electricity Policy (with Yuta Toyama)
-
-1. Shortrun Impact of Electricity on Social Capital: An Evidence from Rural Electricity Program (with Dil Rahut and Yayue Xiao). **Conditional Acceptance** (Empirical Economics)
 
 1. Impacts of Solar Subsidy:Evidence from Geographic Regression Discontinuity Design in Nepal (with Bishal Bharadwaj, Subhrendu K. Pattanayak and Peta Ashworth). [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916331)
 
 
 
-
 Articles
 ==========
+
+1. Shortrun Impact of Electricity on Social Capital: An Evidence from Rural Electricity Program. *Forthcoming in* **Empirical Economics**.  (with Dil Rahut and Yayue Xiao). 
+
 1. In pursuit of sustainable development goal 7- Evidence of clean cooking fuel usage from 46 developing countries. **"The Electricity Journal"**, 2024. (with Raman Mishra, Dil Bahadur Rahut, Subhasis Bera, Tetsushi Sonobe) [Link](https://www.sciencedirect.com/science/article/pii/S1040619024000435?via%3Dihub)
 
 1. Returns to grid electricity on firewood and kerosene: Mechanism. **"Journal of Environmental Economics and Management"**, 2022, 111. [Link](https://doi.org/10.1016/j.jeem.2021.102606)
