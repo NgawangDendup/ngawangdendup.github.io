@@ -18,7 +18,7 @@ Working Papers/Work-in-Progress
 Articles
 ==========
 
-1. Shortrun Impact of Electricity on Social Capital: An Evidence from Rural Electricity Program. *Forthcoming in* **Empirical Economics**.  (with Dil Rahut and Yayue Xiao). 
+1. Shortrun Impact of Electricity on Social Capital: An Evidence from Rural Electricity Program.  **Empirical Economics**, *forthcoming*.  (with Dil Rahut and Yayue Xiao). 
 
 1. In pursuit of sustainable development goal 7- Evidence of clean cooking fuel usage from 46 developing countries. **The Electricity Journal**, 2024. (with Raman Mishra, Dil Bahadur Rahut, Subhasis Bera, Tetsushi Sonobe) [Link](https://www.sciencedirect.com/science/article/pii/S1040619024000435?via%3Dihub)
 
