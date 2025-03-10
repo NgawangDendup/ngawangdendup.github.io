@@ -9,6 +9,8 @@ header:
 
 Working Papers/Work-in-Progress
 ================
+1. Response to Incentives to Conserve Electricity and Household Behavior: Evidence from Field Experiment
+   
 1.  Designing Nonlinear Electricity Pricing with Misperceptions: Evidence from Free Electricity Policy (with Yuta Toyama)
 
 1. Impacts of Solar Subsidy:Evidence from Geographic Regression Discontinuity Design in Nepal (with Bishal Bharadwaj, Subhrendu K. Pattanayak and Peta Ashworth). [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3916331)
